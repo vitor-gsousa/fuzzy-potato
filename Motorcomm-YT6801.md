@@ -42,7 +42,7 @@
 ### 1. Update headers
 	sudo apt install linux-headers-$(uname -r)
 ### 2. Download driver
-	wget [https://github.com/dante1613/Motorcomm-YT6801/raw/main/tuxedo-yt6801/tuxedo-yt6801_1.0.28-1_all.deb](https://deb.tuxedocomputers.com/debian/pool/main/t/tuxedo-yt6801/tuxedo-yt6801_1.0.30tux5_all.deb)
+	wget [[https://github.com/dante1613/Motorcomm-YT6801/raw/main/tuxedo-yt6801/tuxedo-yt6801_1.0.28-1_all.deb](https://deb.tuxedocomputers.com/debian/pool/main/t/tuxedo-yt6801/tuxedo-yt6801_1.0.30tux5_all.deb)
 ### 3. Install driver
 	sudo dpkg -i tuxedo-yt6801_1.0.30tux5_all.deb
 ### 4. Creates a list of module dependencies
